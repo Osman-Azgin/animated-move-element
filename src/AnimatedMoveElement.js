@@ -1,24 +1,8 @@
 import React,{useState,useRef,useEffect} from 'react';
 import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
   StyleSheet,
-  Text,
-  useColorScheme,
-  View,
-  TextInput,
-  Image,
   Dimensions,
-  TouchableOpacity,
-  TouchableHighlight,
   Animated,
-  Switch,
-  BackHandler,
-  Alert,
-  PanResponder,
-  Modal,
-  ActivityIndicator,
 } from 'react-native';
 
 const styles = StyleSheet.create({
